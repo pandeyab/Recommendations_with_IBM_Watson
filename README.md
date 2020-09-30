@@ -6,7 +6,7 @@ Udacity DSND project 6 - recommendation with IBM Watson
 
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
-3. [The Process](#process)
+3. [Processes](#process)
 4. [Licensing, Authors, and Acknowledgements](#licensing)
 
 
@@ -36,7 +36,7 @@ In order to determine which articles to show to each user, you will be performin
 
 
 
-## The Process <a name="process"></a>
+## Processes <a name="process"></a>
 The process has 5 steps
 1. Exploratory Data Analysis
 2. Rank Based Recommendations
